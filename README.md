@@ -10,7 +10,7 @@ Pemain yang gagal memantulkan bola akan dinyatakan kalah.
 - Aturan menang
 -  kalah otomatis
 - Tampilan sederhana namun sudah dikembangkan
-# Kontrol Permainan 
+# Kontrol Permainan
 Pemain 1 (Raket Kiri) 
 - W = Naik
 - S = Turun
