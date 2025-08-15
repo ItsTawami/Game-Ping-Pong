@@ -11,10 +11,10 @@ Pemain yang gagal memantulkan bola akan dinyatakan kalah.
 -  kalah otomatis
 - Tampilan sederhana namun sudah dikembangkan
 # Kontrol Permainan
-Pemain 1 (Raket Kiri) 
+#Pemain 1 (Raket Kiri) 
 - W = Naik
 - S = Turun
-Pemain 2 (Raket Kanan)
+#Pemain 2 (Raket Kanan)
 - UP Arrow = Naik
 - Down Arrow = Turun
 # Instalasi dan Cara Main 
