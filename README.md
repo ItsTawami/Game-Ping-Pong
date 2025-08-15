@@ -19,7 +19,7 @@ Pemain yang gagal memantulkan bola akan dinyatakan kalah.
 # Instalasi dan Cara Main 
 1. Pastikan Python3 sudah terinstal
 2. Instal Pygame:    pip install pygame or python -m pip install pygame
-3. Clone repositori ini:    git clone https://github.com/mayaseptiani13/Game-pingpong-Maya
+3. Clone repositori ini:    git clone https://github.com/ItsTawami/Game-Ping-Pong
 4. Jalankan game: python ping_pong.py
 # Lisensi Proyek ini dirilis dengan lisensi MIT 
 - Silahkan digunakan, dimodifikasi, dan dibagika dengan tetap mencantumkan kredit pembuatan
